@@ -1,0 +1,12 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blue;
+}
+.mainDiv{
+    width: 600px;
+    height: 600px;
+    background-color:aqua; 
+}
